@@ -10,12 +10,12 @@ export default function navbar() {
     return (
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand href="#home">Jaryodd's Portfolio</Navbar.Brand>
+                    <Navbar.Brand href="/">Jaryodd's Portfolio</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#portfolio">Portfolio</Nav.Link>
-                        <Nav.Link href="#aboutme">About me</Nav.Link>
-                        <Nav.Link href="#contact">Contact</Nav.Link>
+                        <Nav.Link href="/">Home</Nav.Link>
+                        <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+                        <Nav.Link href="/aboutme">About me</Nav.Link>
+                        <Nav.Link href="/contact">Contact</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
