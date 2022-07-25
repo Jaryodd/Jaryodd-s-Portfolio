@@ -2,6 +2,11 @@ import React from 'react'
 
 export default function footer() {
   return (
-    <div>footer</div>
+
+<main className='footer'>  
+    <div>
+      <p>Copyright &copy; Your Website 2022</p>
+      </div>
+      </main>
   )
 }
