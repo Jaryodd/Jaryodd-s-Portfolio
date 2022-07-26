@@ -12,7 +12,7 @@ export default function aboutme() {
       <Container>
         <Row className='px-4 my-5'>
           <Col sm={8}>
-            <Image src={kavion} fluid rounded />
+            <Image src={kavion1} fluid rounded />
             <h1>My little genius Kavion wanted to say hi during this module</h1>
           </Col>
 

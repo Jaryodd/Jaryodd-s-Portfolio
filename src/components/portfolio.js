@@ -17,42 +17,40 @@ export default function portfolio() {
       <Row>
         <Col>
           <Card border="primary" style={{ width: '18rem' }}>
-            <Card.Header>Almost_Faim_ous</Card.Header>
+            <Card.Header>Bach That Thang Up</Card.Header>
             <Card.Body>
               <Card.Title>Link to project</Card.Title>
               <Card.Text>
                 This is a music app that my classmates and I made
+                <Card.Link href="https://github.com/SabotMBT/ClassProject1">Bach That Thang Up</Card.Link>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <Card border="primary" style={{ width: '18rem' }}>
+            <Card.Header>Weather App</Card.Header>
+            <Card.Body>
+              <Card.Title>Link to project</Card.Title>
+              <Card.Text>
+                This is a weather app that I made 
+                <Card.Link href="https://github.com/Jaryodd/WeatherApp2">Weather App</Card.Link>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <Card border="primary" style={{ width: '18rem' }}>
+            <Card.Header>Almost_Faim_ous</Card.Header>
+            <Card.Body>
+              <Card.Title>Almost_Faim_ous</Card.Title>
+              <Card.Text>
+                This is a messaging app that my classmates and I made
                 <Card.Link href="https://github.com/ruxpin86/Almost-FAIM-ous">Almost_Faim_ous</Card.Link>
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          <Card border="primary" style={{ width: '18rem' }}>
-            <Card.Header>Header</Card.Header>
-            <Card.Body>
-              <Card.Title>Primary Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-                <Card.Link href="#">Card Link</Card.Link>
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          <Card border="primary" style={{ width: '18rem' }}>
-            <Card.Header>Header</Card.Header>
-            <Card.Body>
-              <Card.Title>Primary Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-                <Card.Link href="#">Card Link</Card.Link>
               </Card.Text>
             </Card.Body>
           </Card>
