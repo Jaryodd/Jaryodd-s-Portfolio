@@ -22,5 +22,9 @@
 .footer {
   text-align: center;
   
-  
+}
+
+.main {
+  background-image: url('./images/coloring.jpg');
+  background-size: cover;
 }
